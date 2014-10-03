@@ -1,0 +1,6 @@
+*.sublime-*
+.DS_Store
+*.swp
+#*.*#
+tags
+goquery.test

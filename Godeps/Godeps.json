@@ -1,0 +1,21 @@
+{
+	"ImportPath": "github.com/aheuermann/everkinetic-parser",
+	"GoVersion": "go1.3.2",
+	"Deps": [
+		{
+			"ImportPath": "code.google.com/p/cascadia",
+			"Comment": "null-30",
+			"Rev": "4f03c71bc42ba0015a68bea86422f0ecbb71bf70"
+		},
+		{
+			"ImportPath": "code.google.com/p/go.net/html",
+			"Comment": "null-150",
+			"Rev": "90e232e2462dedc03bf3c93358da62d54d55dfb6"
+		},
+		{
+			"ImportPath": "github.com/PuerkitoBio/goquery",
+			"Comment": "v0.3.2-30-g12a8512",
+			"Rev": "12a851277896ab3921778fea9543634284691034"
+		}
+	]
+}
